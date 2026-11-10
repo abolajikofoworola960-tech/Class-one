@@ -1,0 +1,14 @@
+"use strict";
+let school = "SQI";
+let PhoneNo = 9151402977;
+let yx = 10;
+yx = "text";
+let Student = true;
+let Admin = false;
+let pupils = [false, 22, "John", 22, true, "John", 22, true, "John", 22, true, "John", 22, true, "John", 22, true];
+console.log(school);
+console.log(PhoneNo);
+console.log(Student);
+console.log(Admin);
+console.log(yx);
+console.log(pupils);
